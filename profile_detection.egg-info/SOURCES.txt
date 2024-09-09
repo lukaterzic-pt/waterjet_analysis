@@ -1,0 +1,5 @@
+setup.py
+profile_detection.egg-info/PKG-INFO
+profile_detection.egg-info/SOURCES.txt
+profile_detection.egg-info/dependency_links.txt
+profile_detection.egg-info/top_level.txt
